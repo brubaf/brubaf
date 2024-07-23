@@ -1,16 +1,15 @@
 <div>
-  <a href="https://github.com/filipoow">
+  <a href="https://github.com/brubafs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipoow&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipoow&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
 <p>sobre_mim = {<br>
   <br>
-            '<b>tecnologias'</b>: ['Python', 'Javascript', 'SQL', 'Power BI'],<br>
+            '<b>tecnologias'</b>: ['Python', 'SQL', 'Power BI'],<br>
             '<b>estudando</b>': ['Data Science'],<br>
-            '<b>frase_de_efeito</b>': ['Torne-se aquilo que você é'],<br>
-            '<b>linkedin</b>':  'https://www.linkedin.com/in/filipoow/',<br>
-            '<b>email'</b>: 'emaildofilipe.m@gmail.com'<br>
+            '<b>linkedin</b>':  'https://www.linkedin.com/in/bruna-ferraz-da-silva/',<br>
+            '<b>email'</b>: 'brunaferrazds@gmail.com'<br>
   <br>
 }</p>
 Tecnologias em uso no momento:
@@ -21,9 +20,6 @@ Tecnologias em uso no momento:
   <img align="center" alt="filipoow-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 </div>
-<br>
-Entre no meu portfólio e me conheça mais um pouco: https://filipoow.web.app
-<br>
 <br>
 :mailbox_with_mail: Sinta-se a vontade para entrar em contato.
 <div> 
